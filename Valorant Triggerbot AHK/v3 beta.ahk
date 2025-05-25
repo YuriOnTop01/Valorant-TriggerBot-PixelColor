@@ -22,7 +22,7 @@ key_burstclick  :=  "F4"    ; self explanatory
 key_off		    := 	"F5"	; self explanatory	
 key_exit	    := 	"F6"    ; self explanatory	
 key_gui_hide	:=	"F7"	; hides gui (graphical user interface)		
-key_hold	    :=	"LALT" 	; key that you hold to scan (example "T") 	
+key_hold	    :=	"LShift" 	; key that you hold to scan (example "T") 	
 
 ;SETTINGS
 pixel_box	    := 3		    ; Keep between min 3 and max 8		
